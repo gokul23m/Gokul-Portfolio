@@ -19,7 +19,7 @@ const Home = () => {
             I have completed my Web development internship and having hands-on experience in web appilication from creating frontend projects.
             
            </p>
-           <p  className="text-gray-500 py-4 max-w-full text-xl " >  Currently, I looking for a job from which i get trained technologies like React Js, Node JS, Java and MongoDB.
+           <p  className="text-gray-500 py-4 max-w-full text-xl " >  Currently, I looking for a job from which i get trained technologies like React Js,  Java and MySQL.
          </p>
 
           <div className="flex flex-row">

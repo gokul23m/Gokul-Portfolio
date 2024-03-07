@@ -20,7 +20,7 @@ const About = () => {
         <p className="text-xl pb-3 mt-15">
 Basically, I being a Computer Science engineering graduate, with a mere knowledge in HTML, I started developing my interest in Web developing field and acquired knowledge in few front end technologies, frameworks and libraries like HTML, CSS, JavaScript, Bootstrap, ReactJS and built up few responsive web pages and apps from the ground up.
         </p>
-        <p className="text-xl pb-3 mt-2">Also to become a full stack developer with my own interest and passion developing a skill set in backend technologies like NodeJS, ExpressJS and database of MongoDB.</p>
+        
 
 <p className="text-xl pb-3 mt-2">I possess knowledge in  Java,MySQL,git, firebase. And I have completed a wide range of projects using my skill set.</p>
      
